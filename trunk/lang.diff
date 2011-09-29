@@ -1,0 +1,18 @@
+Legend :
++ Added
+- Removed
+* Modified
+
+
+*********
+* v.2.1 *
+*********
+modinfo.php
++ _MI_BIRTHDAY_SORT_ORDER
++ _MI_BIRTHDAY_SORT_ORDER1
++ _MI_BIRTHDAY_SORT_ORDER2
++ _MI_BIRTHDAY_USE_CAPTCHA
+
+main.php
++ _BIRTHDAY_PLEASESOLVE
++ _BIRTHDAY_CAPTCHA_WRONG
